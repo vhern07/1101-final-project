@@ -1,1 +1,1 @@
-# My not-first commit
+print("Hello")
